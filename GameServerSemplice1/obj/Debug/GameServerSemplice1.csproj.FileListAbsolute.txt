@@ -1,0 +1,11 @@
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\GameServerSemplice1.exe.config
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\GameServerSemplice1.exe
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\GameServerSemplice1.pdb
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\obj\Debug\GameServerSemplice1.csprojAssemblyReference.cache
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\obj\Debug\GameServerSemplice1.csproj.CoreCompileInputs.cache
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\obj\Debug\GameServerSemplice1.exe
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\obj\Debug\GameServerSemplice1.pdb
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\nunit.engine.dll
+C:\Users\zackm\source\repos\GameServerSemplice1\GameServerSemplice1\bin\Debug\nunit.engine.api.dll
